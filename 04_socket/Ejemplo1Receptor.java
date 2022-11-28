@@ -8,7 +8,7 @@ public class Ejemplo1Receptor {
 			System.out.println("Este programa requiere sólo un argumento en línea de mandato");
 		}else{
 			int puerto = Integer.parseInt(args[0]);
-			final int MAX_LON = 10;
+			final int MAX_LON = 20;
 
 			try{
 				
